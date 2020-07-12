@@ -1,6 +1,6 @@
 # First Task
 
-An application review service developed with spring boot, and integrated with JBPM. Submitted as a code challenge for BOT.
+An application review service developed with spring boot, and integrated with JBPM.
 
 ## Requirements
 
@@ -27,6 +27,6 @@ username: rev2 , password: rev2 (reviewer)
 ```
 The service uses REST API calls to interact with the integrated kie server.
 
-The developer can assign a reviewer an application to review
-The reviewer can either accept or reject the application
-The developer can check the status of the assigned application
+The developer can assign a reviewer a task to review
+The reviewer can either accept or reject the task
+The developer can check the status of the assigned task
